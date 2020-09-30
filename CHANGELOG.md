@@ -1,3 +1,6 @@
+## 0.6.2+1
+* Fix ios build (podspec file)
+
 ## 0.6.2
 * Add `mtu` and `requestMtu` to BluetoothDevice
 
